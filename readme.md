@@ -1,0 +1,1 @@
+esta herramienta es un fuzer de directorios y subdominios mas que nada para automatizar la deteccion de subdominios mediante algunos diccionarios
